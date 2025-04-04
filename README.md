@@ -1,2 +1,2 @@
 # myPyProgs
-Test python prgrams
+Test python programs
